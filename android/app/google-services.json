@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "441074308001",
+    "project_id": "diet-recall-e71aa",
+    "storage_bucket": "diet-recall-e71aa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:441074308001:android:e9a7545aac5172a3a4b1e0",
+        "android_client_info": {
+          "package_name": "com.hext.dietrecallapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "441074308001-5h3fomb7s2d75pmtr456iicb32nli59l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hext.dietrecallapp",
+            "certificate_hash": "49ab56bb3e5253815b8002ce864c9c2ad55bfa74"
+          }
+        },
+        {
+          "client_id": "441074308001-2ek70q12lttqfc8oggib0tku1g7vn1mc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOh6tzU7sbUEBeuSEVoiEz-tQqpQhcpaw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "441074308001-2ek70q12lttqfc8oggib0tku1g7vn1mc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

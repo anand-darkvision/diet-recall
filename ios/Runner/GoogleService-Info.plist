@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>441074308001-naggr4v6dq4ps2rvp5pfcg0vmbvc278g.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.441074308001-naggr4v6dq4ps2rvp5pfcg0vmbvc278g</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>441074308001-5h3fomb7s2d75pmtr456iicb32nli59l.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBS-9WO84gIYlpTI2kFcSWyJ2tY0niDRA8</string>
+	<key>GCM_SENDER_ID</key>
+	<string>441074308001</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.hext.dietrecallapp</string>
+	<key>PROJECT_ID</key>
+	<string>diet-recall-e71aa</string>
+	<key>STORAGE_BUCKET</key>
+	<string>diet-recall-e71aa.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:441074308001:ios:0124bf9fbd27567fa4b1e0</string>
+</dict>
+</plist>

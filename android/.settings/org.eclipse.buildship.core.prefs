@@ -1,0 +1,13 @@
+arguments=--init-script /var/folders/n0/54f8gkhn7_nfdx3kx6b4sqz80000gn/T/init6373598605292180044.gradle --init-script /var/folders/n0/54f8gkhn7_nfdx3kx6b4sqz80000gn/T/init7358577616382381847.gradle
+auto.sync=false
+build.scans.enabled=false
+connection.gradle.distribution=GRADLE_DISTRIBUTION(WRAPPER)
+connection.project.dir=
+eclipse.preferences.version=1
+gradle.user.home=
+java.home=/Users/anand_yuva/Library/Java/JavaVirtualMachines/openjdk-17.0.1/Contents/Home
+jvm.arguments=
+offline.mode=false
+override.workspace.settings=true
+show.console.view=true
+show.executions.view=true

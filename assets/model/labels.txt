@@ -1,0 +1,87 @@
+0 adirasam
+1 aloogobi
+2 AlooMatar
+3 Aloomethi
+4 AlooShimlaMirch
+5 AlooTikki
+6 Anarsa
+7 Ariselu
+8 Bandar laddu
+9 Basundi
+10 Bhatura
+11 Bhindi Masala
+12 Biriyani
+13 boondi
+14 Butter Chicken
+15 Chak Hao Kheer
+16 Cham Cham
+17 Chana Masala
+18 Chapati
+19 Chhena Kheeri
+20 chicken razala
+21 chicken tikka
+22 chicken tikka masala
+23 chikki
+24 daal baati churma
+25 daal puri
+26 dal makhani
+27 dal tadka
+28 dharwad pedha
+29 doodh pak
+30 bread pudding
+31 dum aloo
+32 carrot halwa
+33 ghevar
+34 gulab jamun
+35 jalebi
+36 kachori
+37 kadai paneer
+38 kadhi pakoda
+39 unni appam
+40 kajjikaya
+41 sutar feni
+42 kakinada khaja
+43 soan papdi
+44 kalakand
+45 soan halwa
+46 karela bharta
+47 shrikhand
+48 kofta
+49 sheera
+50 kuzhi paniyaram
+51 sheer korma
+52 lassi
+53 shankarpali
+54 ledikeni
+55 sandesh
+56 litti chokka
+57 rasgulla
+58 lyangcha
+59 fish curry 
+60 misi roti with palak 
+61 malapua
+62 misi roti
+63 misti doi
+64 modhagam
+65 mysore pak
+66 ras malai
+67 naan
+68 rabri
+69 navrattan korma
+70 qubani meetha
+71 palak paneer 
+72 pootharrekulu
+73 paneer butter masala
+74 poornalu
+75 phirni
+76 poha
+77 Apple
+78 Banana
+79 Cucumber
+80 Grapes
+81 Orange
+82 Kiwi
+83 Pomegranate
+84 Mango
+85 PineApple
+86 Pear
